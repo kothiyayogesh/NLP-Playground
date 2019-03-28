@@ -48,33 +48,37 @@ I would encourage you to share your critical feedback by submitting a pull reque
 - [Analytics vidhya](https://medium.com/analytics-vidhya)
 
 ## Concepts:
-> - Prerequisite :
-> 	- Working knowledge of python.
-Basic experience with Numpy and pandas.
-Understanding of RegEx.
+- Prerequisite :
+ -	Working knowledge of python.
+ - 	Basic experience with Numpy and pandas.
+ - 	Understanding of RegEx.
 
-Text Preprocessing [References]
-Tokenization
-Lemmatization
-Stemming
-Cleaning
-Regex
+- Text Preprocessing
+	- Tokenization
+	- Lemmatization
+	- Stemming
+	- Cleaning
+	- Regex
 
-Text to Features [References]
-Vector representation
-TF-IDF, Count vectorizer, Word vectors
-Syntactical parsing
-Dependency parsing, NER
-Feature engineering
-Topic modeling
-Clustering
-Text classification:
-Text summarization:
-Text matching:
-Language translation:
-Word prediction:
-Dialogue system:
-http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf
+- Text to Features
+	- Vector representation
+		- TF-IDF
+		- Count vectorizer
+		- Word vectors
+	- Syntactical parsing
+		- Dependency parsing
+		- NER
+
+- Feature engineering
+- Topic modeling
+- Clustering
+- Text classification
+- Text summarization
+- Text matching
+- Language translation
+- Word prediction
+- [Dialogue system](http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf)
+
 
 ### Popular Python library for NLP
 - [NLTK](https://www.nltk.org/)
