@@ -72,7 +72,7 @@ I would encourage you to share your critical feedback by submitting a pull reque
 - Feature engineering
 - Topic modeling
 - Clustering
-- Text classification
+- [Text classification](https://github.com/kothiyayogesh/NLP-Playground/tree/master/Concepts/Text%20classification)
 - Text summarization
 - Text matching
 - Language translation
