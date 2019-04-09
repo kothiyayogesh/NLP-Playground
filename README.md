@@ -47,18 +47,35 @@ I would encourage you to share your critical feedback by submitting a pull reque
 - [Machine learning 101](https://medium.com/machine-learning-101)
 - [Analytics vidhya](https://medium.com/analytics-vidhya)
 
+## Deep learning frameworks
+- [Tensorflow](https://www.tensorflow.org/)
+- [PyTorch](https://pytorch.org/)
+- [Keras](https://keras.io/)
+
 ## Concepts:
 - Prerequisite :
- -	Working knowledge of python.
- - 	Basic experience with Numpy and pandas.
- - 	Understanding of RegEx.
+ 	-	Working knowledge of python.
+ 	- 	Basic experience with [Numpy](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/02_NumPy.ipynb) and [pandas](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/03_Pandas.ipynb).
+ 	- 	Understanding of [RegEx](https://www.analyticsvidhya.com/blog/2015/06/regular-expression-python/).
 
+- What is Natural language processing?
+	The terms NLU and NLP are often misunderstood and considered interchangeable. However, the difference between these two techniques is essential. So, let us 
+	sort things out.
+
+	NLU is a narrow subset of NLP. It stands for Natural Language Understanding and is one of the most challenging tasks of AI. Its fundamental purpose is handling unstructured content and turning it into structured data that can be easily understood by the computers.
+	Whereas Natural language processing is a field concerned with the ability of a computer to understand, analyze, manipulate, and potentially generate human language(Natural langauge generation).
+	
+	![NLP Vs NLU](/Images/NLU-and-NLP.jpg)
+	
+- Why NLP is hard?
+	Human language is special for several reasons. Understanding human language is considered a difficult task due to its complexity, ambiguity, variability and unexpected input like yypos, grammar, spelling mistakes and faulty pronunciations can make natural language understanding and processing even more difficult.
+	
 - Text Preprocessing
+	- Cleaning
+	- Regex
 	- Tokenization
 	- Lemmatization
 	- Stemming
-	- Cleaning
-	- Regex
 
 - Text to Features
 	- Vector representation
@@ -71,7 +88,7 @@ I would encourage you to share your critical feedback by submitting a pull reque
 
 - Feature engineering
 - Topic modeling
-- Clustering
+- Document/text Clustering
 - [Text classification](https://github.com/kothiyayogesh/NLP-Playground/tree/master/Concepts/Text%20classification)
 - Text summarization
 - Text matching
