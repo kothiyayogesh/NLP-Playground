@@ -12,8 +12,13 @@
 ## About us
 Welcome to the NLP Playground. If you are a hustler in NLP then you are at the right corner of the web. This repo contains tutorials of various concepts.
 Please star the repo so that others can discover and take maximum benefit out of it.
-If you would like to collaborate feel free to mail us @ yogesh.kothiya.101@gmail.com
+If you would like to collaborate feel free to mail me @ yogesh.kothiya.101@gmail.com
 I would encourage you to share your critical feedback by submitting a pull request.
+
+## Support Us
+There's a few ways you can support this initiative:\
+
+Right now this is very much a self funded initiative. If you wish to see more and more high quality tutorials then support us by giving star to the repo and sharing with your friends.
 
 ## Books
 - [Speech and Language Processing by Prof. Dan Jurafsy](https://web.stanford.edu/~jurafsky/slp3/)
@@ -41,7 +46,7 @@ I would encourage you to share your critical feedback by submitting a pull reque
 - [Sebastian Ruder](http://ruder.io/)
 
 ## Popular AI/ML medium channel
-> Here’s a list of popular medium channel which has tons of amazing article on AI/ML/DL
+> Here’s a list of popular medium channel which has tons of amazing article on AI/ML/DL/NLP
 - [Towards data science](https://towardsdatascience.com/)
 - [ML review](https://medium.com/mlreview)
 - [Machine learning 101](https://medium.com/machine-learning-101)
@@ -68,7 +73,7 @@ I would encourage you to share your critical feedback by submitting a pull reque
 	![NLP Vs NLU](/Images/NLU-and-NLP.jpg)
 	
 - Why NLP is hard?\
-	Human language is special for several reasons. Understanding human language is considered a difficult task due to its complexity, ambiguity, variability and unexpected input like yypos, grammar, spelling mistakes and faulty pronunciations can make natural language understanding and processing even more difficult.
+	Human language is special for several reasons. Understanding human language is considered a difficult task due to its complexity, ambiguity, variability and unexpected input like typos, grammar, spelling mistakes and faulty pronunciations can make natural language understanding and processing even more difficult.
 	
 - [Text Preprocessing](https://github.com/kothiyayogesh/NLP-Playground/tree/master/Concepts/Text%20preprocessing)
 - Text to Features
@@ -79,7 +84,10 @@ I would encourage you to share your critical feedback by submitting a pull reque
 - Text summarization
 - Text matching
 - Language translation
+	An artificial system which translates a sentence from one language to the other.
 - Word prediction
+- Video Captioning
+	Automatically creating the subtitles of a video for each frame, including a description of the sound cues (such as machinery starting up, people laughing in the background, etc.).
 - [Dialogue system](http://web.stanford.edu/class/cs20si/lectures/slides_13.pdf)
 
 
