@@ -51,3 +51,14 @@ For simplicity I am giving a steps to do the same.
 **There might be some errors so be ready to solve them.**
 
 In the provided link there is a way given how to read the *.raw* file to get embedding.
+
+### Model Training and Application
+The approach followed to train the bot is as follows:
+- We will take a dataset which will have sentences and their categories in a language in which we have sufficient labelled sentences. (*Preferably in **English***)
+- We will generate the embedding vectors for those sentences using LASER.
+- We will feed these vectors as features to a multi-layer perceptron model and train it.
+- Once the model is trained we will feed the emedding vector of sentences in different language to predict the categories.
+
+### Model integration with BOT
+Whenever a bot will receive a message we will use LASER to get the embedding first then feed that embedding to our trained model to get the category the message belongs and based on that the bot will give the correct response.
+> A set of categories and their answers will be maintained to provide answers.
