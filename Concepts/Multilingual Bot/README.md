@@ -15,7 +15,7 @@ This notion suits well for single language, but what about words and sentences i
 If we think about the basic idea why embedding vectors are used, it will be clear that if any two or more sentences, no matter what language they are, in have same meaning then their vectors should be similar.
 Following this idea people at facebook have devised a model to generate embedding vectors for sentences in any language. No, they have not created separate models for each language but **one** single model for all languages (*93 to be exact*).
 
-## LSAER (Language Agnostic SEntence Representation)
+## LASER (Language Agnostic SEntence Representation)
 Their work has been documented [here](https://arxiv.org/abs/1812.10464) and you can find a generalised description [here](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/).
 
 > I am giving a brief description of what they made and how they made. For simplicity lot of details have been left out. Refer to the above mentioned links for in depth knowledge.
